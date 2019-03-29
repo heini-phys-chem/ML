@@ -4,3 +4,6 @@ Machine learning scripts using qmlcode. Automatically optimizes the hyperparamet
 ```
 python BoB.py <train.txt> <test.txt or predictions.txt> <path to xyz files> <learning_curves or predictions>
 ```
+
+Representatons:
+- BoB
